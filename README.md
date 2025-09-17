@@ -22,7 +22,7 @@
 
 !\[游戏主界面(https://github.com/huged6/AngryBird2Ddemo/blob/master/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-17%20171853.png)
 
-
+!\[试玩截图](https://github.com/huged6/AngryBird2Ddemo/blob/master/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-17%20172056.png)
 
 
 
