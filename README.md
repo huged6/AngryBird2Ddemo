@@ -20,9 +20,9 @@
 
 \## 游戏截图
 
-!\[游戏主界面](https://github.com/huged6/AngryBird2Ddemo/blob/master/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE202025-09-1720171853.png)
+!\[游戏主界面](https://github.com/huged6/AngryBird2Ddemo/raw/master/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE202025-09-1720171853.png)
 
-!\[试玩截图](https://github.com/huged6/AngryBird2Ddemo/blob/master/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE20202025-09-1720172056.png)
+!\[试玩截图](https://github.com/huged6/AngryBird2Ddemo/raw/master/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE20202025-09-1720172056.png)
 
 
 
